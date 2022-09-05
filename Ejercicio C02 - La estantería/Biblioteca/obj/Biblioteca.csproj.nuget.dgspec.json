@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patri\\source\\repos\\Ejercicio C02 - La estantería\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\patri\\Documents\\Git\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patri\\source\\repos\\Ejercicio C02 - La estantería\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\patri\\Documents\\Git\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patri\\source\\repos\\Ejercicio C02 - La estantería\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\patri\\Documents\\Git\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\patri\\source\\repos\\Ejercicio C02 - La estantería\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\patri\\Documents\\Git\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patri\\source\\repos\\Ejercicio C02 - La estantería\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\patri\\Documents\\Git\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
